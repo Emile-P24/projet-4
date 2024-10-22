@@ -1,17 +1,15 @@
 Proposez vos plans pour conquérir le monde
 
 
-<<<<<<< HEAD
+
 coucou tout le monde !
-=======
 
 
 
 
 
 Salut c'est Sophie
-<<<<<<< HEAD
 alors là j'écrit mon histoire
-=======
+
+
 salut c'est Christelle
->>>>>>> e645aa4f559b0f550a1b4d89eca85f4a8fc3b740
